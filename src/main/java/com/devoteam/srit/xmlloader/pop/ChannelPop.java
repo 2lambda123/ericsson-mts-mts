@@ -112,7 +112,9 @@ public class ChannelPop extends Channel
     @Override
     public boolean sendMessage(Msg msg) throws Exception{ 
         if (null == channel)
-            throw new Exception("Channel is null, has one channel been opened ?");
+            {
+                throw new Exception("Channel is null, has one channel been opened ?");
+            }
 
             if(isServer())
             {
