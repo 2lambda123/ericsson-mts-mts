@@ -39,11 +39,11 @@
         <jmf.version>2.1.1e</jmf.version>
         <swing-layout.version>1.0.3</swing-layout.version>
         <snmp4j.version>1.10.1</snmp4j.version>
-        <mysql-connector-java.version>5.1.41</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
         <tcap-impl.version>3.0.1337</tcap-impl.version>
         <binarynotes.version>1.6.0</binarynotes.version>
         <asn.version>2.0.2.FINAL</asn.version>
-        <json-path.version>2.7.0</json-path.version>
+        <json-path.version>2.9.0</json-path.version>
         <json-smart.version>2.4.9</json-smart.version>
         <jsr305.version>[3.0.0,)</jsr305.version>
         <jmustache.version>1.14</jmustache.version>
